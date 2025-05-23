@@ -51,5 +51,4 @@ Dự án này tập trung vào phân tích dữ liệu các vụ tai nạn giao 
 
 ---
 
-**Tác giả:**  
-Nguyen Thanh An  
+
